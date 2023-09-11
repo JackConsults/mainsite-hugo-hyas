@@ -8,7 +8,7 @@ containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fl
 
 ## Button
 navBarButton = true # false (default) or true
-navBarButtonUrl = "/docs/prologue/introduction/"
+navBarButtonUrl = "/about/contact-us/"
 navBarButtonText = "Get started"
 
 # FlexSearch

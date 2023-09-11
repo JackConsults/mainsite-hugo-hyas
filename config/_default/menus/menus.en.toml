@@ -29,6 +29,11 @@
   url = "/tutorial/lorem/"
 
 [[main]]
+  name = "About"
+  url = "/about/contact-us/"
+  weight = 5
+  
+[[main]]
   name = "Docs"
   url = "/docs/guides/tech-stacks/" # need a landing page at some piont for docs that's better than this layout
 # url = "/docs/1.0/prologue/introduction/"
@@ -38,6 +43,7 @@
   name = "Blog"
   url = "/blog/"
   weight = 30
+  
 
 # [[social]]
 #   name = "Twitter"
