@@ -25,6 +25,10 @@ After some level of assessment on what technology makes sense and what I build, 
 - I wanted to use something that's not npm based.
 - I wanted a static site generator that doesn't come bundled with a front end solution.
 
+## Theme
+
+We're using Doks. For the theme site please visit [https://gethyas.com/themes/doks/](https://gethyas.com/themes/doks/)
+
 ## CICD
 
 We're using
@@ -35,9 +39,13 @@ We're using
 
 Currently it takes about ~1 min for code /content to be pushed and content to show up on the website.
 
-For more information please see [https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo]
+For more information please see [https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo)
 
 ## Static Site Hosting and Certificates
 Site hosting is being handled through Azure's free tier static web app.
 
 Azure also offers free certificates in their free tier.
+
+## Business Solutions and Platforms
+
+For business related solutions and platform decisions please see [our About page](/about/).
