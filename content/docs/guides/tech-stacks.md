@@ -33,6 +33,8 @@ We're using
 - Hugo's out of the box GitHub actions for pipeline
 - Azure's static web app plus hugo build preset
 
+Currently it takes about ~1 min for code /content to be pushed and content to show up on the website.
+
 For more information please see [https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo]
 
 ## Static Site Hosting and Certificates
