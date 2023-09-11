@@ -7,7 +7,7 @@ navbarSticky = true # true (default) or false
 containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
 ## Button
-navBarButton = false # false (default) or true
+navBarButton = true # false (default) or true
 navBarButtonUrl = "/docs/prologue/introduction/"
 navBarButtonText = "Get started"
 
@@ -56,7 +56,7 @@ sectionFooter = false # false (default) or true
 relatedPosts = false # false (default) or true
 
 # Footer
-footer = "Brought to you by <a class=\"text-muted\" href=\"https://gethyas.com/\">Hyas</a>"
+footer = 'Brought to you by <a href="/docs/guides/tech-stacks">tech stacks documented here</a>'
 
 # KaTex
 katex = false

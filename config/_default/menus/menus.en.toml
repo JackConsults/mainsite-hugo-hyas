@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/guides/example-guide/"
+  url = "/docs/guides/tech-stacks/" # need a landing page at some piont for docs that's better than this layout
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
