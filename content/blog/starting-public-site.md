@@ -19,10 +19,10 @@ I've been wanting to start my own non profit like consulting company on the side
 
 ## Business Strategy and Key Performance Indicators
 
-Unlike most for profit companies that has key performance indicators thats' tied to a clear strategy and growth plan, I do not hae that.
+Unlike most for profit companies that has key performance indicators that's tied to a clear strategy and growth plan, I do not have that.
 
 Instead I have the following:
 
 - Take this opportunity learn what it takes to acquire potentially interested customers. Take a personal deep dive into SEO and advertisement.  
 - Start to do valuable work and be humble.
-- Help my new clients achieve succses.
+- Help my new clients achieve success.
